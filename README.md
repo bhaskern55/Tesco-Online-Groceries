@@ -6,9 +6,9 @@ This project recreates the professional look and feel of the Tesco online store 
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
-### ✔ Pixel-perfect Tesco-style UI
+ Pixel-perfect Tesco-style UI
 - Clean header layout  
 - Search box with styled placeholder  
 - Carousel-like horizontal scrolling sections  
@@ -17,12 +17,12 @@ This project recreates the professional look and feel of the Tesco online store 
 - Footer layout  
 - Fully responsive page structure
 
-### ✔ 100% HTML + CSS (No JavaScript)
+ 100% HTML + CSS (No JavaScript)
 - All UI interactions and layout behaviors are created using only CSS  
 - Ideal for beginners learning UI/UX structure  
 - Clean, readable, modular code
 
-### ✔ Mobile Responsive
+ Mobile Responsive
 - Includes `meta viewport`  
 - Uses flexbox, responsive units, and media queries  
 - Automatically adapts to:
@@ -30,7 +30,7 @@ This project recreates the professional look and feel of the Tesco online store 
   - Tablet  
   - Mobile devices  
 
-### ✔ Custom Font Integration
+ Custom Font Integration
 - Included support for custom Tesco Modern font  
 - Proper `@font-face` declaration  
 - Web-safe fallbacks for compatibility
