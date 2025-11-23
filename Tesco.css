@@ -4,12 +4,12 @@
      box-sizing: border-box;
  }
 
- /* body{
+  body{
              @font-face {
             font-family: tesco;
-            src: url(./TESCOModern-Regular/TESCOModern-Regular.ttf);
+            src: url(TESCOModern-Regular.ttf);
         }
-    } */
+    }
 
  .nav1 {
      height: 28px;
@@ -46,7 +46,7 @@
 
 @font-face {
   font-family: tesco;
-  src: url("TESCOModern-Regular/TESCOModern-Regular.ttf");
+  src: url("TESCOModern-Regular.ttf");
 }
 
 
@@ -1719,3 +1719,4 @@
      gap: 20px;
 
  }
+
