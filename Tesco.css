@@ -3,6 +3,10 @@
      padding: 0;
      box-sizing: border-box;
  }
+@font-face {
+  font-family: tesco;
+  src: url("TESCOModern-Regular.ttf");
+}
 
   body{
             font-family: tesco;
@@ -40,11 +44,6 @@
  .nav1 ul li a:hover {
      text-decoration: underline;
  }
-
-@font-face {
-  font-family: tesco;
-  src: url("TESCOModern-Regular.ttf");
-}
 
 
  .span {
@@ -1716,6 +1715,7 @@
      gap: 20px;
 
  }
+
 
 
 
