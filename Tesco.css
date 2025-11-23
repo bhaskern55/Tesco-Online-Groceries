@@ -7,7 +7,7 @@
   body{
              @font-face {
             font-family: tesco;
-            src: url(TESCOModern-Regular.ttf);
+            src: url("TESCOModern-Regular.ttf");
         }
     }
 
@@ -1719,4 +1719,5 @@
      gap: 20px;
 
  }
+
 
